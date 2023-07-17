@@ -18,7 +18,7 @@ Welcome to my GitHub page! I am Cristian Castro and I am currently a student of 
 
 - 🎓 Student of Software Analysis and Development.
 
-- 🎯 Interest: <br> Python, API, HTML, CSS, JavaScript, React, Digital marketing.
+- 🎯 Interest: <br> Python, HTML, CSS, JavaScript, React, Digital marketing.
 
 - 🤸 When did you ask me what I wanted to be? Some time ago my answer was "B-boy" (breakdancer) and today I am a software developer, the turns that life gives. hahaha, but I'm very happy, I love what I do.
 
@@ -26,6 +26,8 @@ Welcome to my GitHub page! I am Cristian Castro and I am currently a student of 
 ### Skills:
 
 <div align="center">
+   <img height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
+    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
     <img height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/figma/figma-original.svg">
     &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
     <img height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg">
