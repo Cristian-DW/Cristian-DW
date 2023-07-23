@@ -7,7 +7,7 @@
 
 
 [![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/cristian-castro-pineda)
-[![Gmail](https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:cristtiiank@gmail.com) 
+
 
 
 
@@ -18,7 +18,7 @@ Welcome to my GitHub page! I am Cristian Castro and I am currently a student of 
 
 - 🎓 Student of Software Analysis and Development.
 
-- 🎯 Interest: <br> Python, HTML, CSS, JavaScript, React, Digital marketing.
+- 🎯 Interest: <br> Express, Node, HTML, CSS, JavaScript, React, Digital marketing.
 
 - 🤸 When did you ask me what I wanted to be? Some time ago my answer was "B-boy" (breakdancer) and today I am a software developer, the turns that life gives. hahaha, but I'm very happy, I love what I do.
 
