@@ -18,7 +18,7 @@ Welcome to my GitHub page! I am Cristian Castro and I am currently a student of 
 
 - 🎓 Student of Software Analysis and Development.
 
-- 🎯 Interest: <br> Express, Node, HTML, CSS, JavaScript, React, Digital marketing, UI UX.
+- 🎯 Interest: <br> Express.js, Node.js, HTML, CSS, JavaScript, React, Digital marketing, UI, UX.
 
 - 🤸 When did you ask me what I wanted to be? Some time ago my answer was "B-boy" (breakdancer) and today I am a software developer, the turns that life gives. hahaha, but I'm very happy, I love what I do.
 
