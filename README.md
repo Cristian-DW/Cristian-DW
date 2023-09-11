@@ -1,5 +1,5 @@
 <p align="center" width="300">
-   <img align="center" width="200" src="https://github.com/Cristian-DW/layout/blob/main/logo.png" />
+   <img align="center" width="200" src="https://github.com/Cristian-DW/layout/blob/main/avatar.png" />
    <h3 align="center">¡Hi, i'm Cristian Castro! 👋 </h3>
 </p>
 <p align="center"><strong>Software Development</strong></p>
