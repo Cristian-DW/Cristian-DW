@@ -2,7 +2,7 @@
    <img align="center" width="200" src="https://github.com/Cristian-DW/layout/blob/main/Marca.png" />
    <h3 align="center">¡Hola, soy Cristian Castro! 👋 </h3>
 </p>
-<p align="center"><strong>&lt;Desarrollador de Software&gt; </strong></p>
+<p align="center"><strong>&lt;Desarrollador de Software/&gt;  </strong></p>
 
 [![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/cristian-castro-pineda)
 
