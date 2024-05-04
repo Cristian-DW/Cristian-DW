@@ -12,7 +12,7 @@
 
 - 🎓 Desarrollador de Software apasionado por el desarrollo frontend.
 
-- 🎯 Intereses: <br>JavaScript, React.js, Next.js, Diseño UI/UX, Design Systems.
+- 🎯 Intereses: <br>JavaScript, React.js, Next.js, React Native, Diseño UI/UX, Design Systems.
 
 - 🤸 ¿Cuándo me preguntaron qué quería ser? Hace algún tiempo mi respuesta fue "B-boy" (breakdancer) y hoy soy un desarrollador de software, los giros que da la vida. jajaja, pero estoy muy feliz, amo lo que hago.
 
