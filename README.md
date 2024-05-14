@@ -3,7 +3,7 @@
    <div>
       <h2 style="color: white; font-size: 28px; margin: 0;">¡Hola, soy Cristian Castro! 👋 </h2>
       <p style="color: white; font-size: 18px; margin: 5px 0;"><strong>&lt;Desarrollador de Software/&gt; </strong></p>
-      <a href="https://www.linkedin.com/in/cristian-castro-pineda" target="_blank">
+      <a href="https://www.linkedin.com/in/cristian-castro-pineda" target="_blank" rel="noopener noreferrer">
          <img src="https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white" alt="Linkedin" style="margin-right: 5px;">
       </a>
    </div>
