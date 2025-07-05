@@ -20,13 +20,13 @@
 ## Habilidades
 
 <div align="center">
-   <img height="35" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg" title="MongoDB" style="margin: 0 10px;">
-   <img height="35" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" title="Typescript" style="margin: 0 10px;">
-   <img height="35" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" title="React.js" style="margin: 0 10px;">
-   <img height="35" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nextjs/nextjs-original.svg" title="Next.js" style="margin: 0 10px;">
-   <img height="35" src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" title="Talwind CSS" style="margin: 0 10px;">
-   <img height="35" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" title="Git" style="margin: 0 10px;">
-   <img height="35" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/figma/figma-original.svg" title="Figma" style="margin: 0 10px;">
+   <img height="10" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg" title="MongoDB" style="margin: 0 10px;">
+   <img height="10" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" title="Typescript" style="margin: 0 10px;">
+   <img height="10" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" title="React.js" style="margin: 0 10px;">
+   <img height="10" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nextjs/nextjs-original.svg" title="Next.js" style="margin: 0 10px;">
+   <img height="10" src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" title="Talwind CSS" style="margin: 0 10px;">
+   <img height="10" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" title="Git" style="margin: 0 10px;">
+   <img height="10" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/figma/figma-original.svg" title="Figma" style="margin: 0 10px;">
 </div>
 
 
