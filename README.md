@@ -46,6 +46,5 @@ Me enfoco en crear soluciones eficientes, mantenibles y alineadas a necesidades 
 Si deseas colaborar, compartir ideas o tienes un proyecto interesante, ¡escríbeme!
 
 📧 **Email:** cristiancastrop.dev@gmail.com
-🔗 **LinkedIn:** https://www.linkedin.com/in/cristian-castro-pineda/
 
 <p align="center">✨ Gracias por visitar mi perfil ✨</p>
