@@ -28,11 +28,12 @@ Me enfoco en crear soluciones eficientes, mantenibles y alineadas a necesidades 
   <img src="https://skillicons.dev/icons?i=nodejs,docker,postgres,git,githubactions&perline=7" />
 </div>
 
-- SAP CAP  
-- SAP BTP (Cloud Foundry / servicios administrados)  
-- SOAP / REST APIs  
-- SQL, PL/SQL  
-- Arquitecturas de microservicios  
+### ☁️ Enterprise & Cloud Stack
+![SAP BTP](https://img.shields.io/badge/SAP_BTP-008FD3?style=for-the-badge&logo=sap&logoColor=white)
+![SAP Integration Suite](https://img.shields.io/badge/SAP_Integration_Suite-0052CC?style=for-the-badge&logo=sap&logoColor=white)
+![SAP CAP](https://img.shields.io/badge/SAP_CAP-0088CC?style=for-the-badge&logo=sap&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white) 
 
 ### **Metodologías y principios**
 - Scrum  
