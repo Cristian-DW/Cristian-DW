@@ -11,10 +11,9 @@
 
 ## Sobre mí
 
-Soy un **Desarrollador Fullstack** con experiencia en el diseño, construcción y despliegue de aplicaciones web modernas, escalables y orientadas a la nube.  
-Combino sólidamente el desarrollo **frontend**, la ingeniería **backend**, la integración con ecosistemas **SAP**, y la implementación de arquitecturas modulares con buenas prácticas.
-
-Me enfoco en crear soluciones eficientes, mantenibles y alineadas a necesidades reales del negocio
+Soy un ingeniero de software enfocado en diseñar y construir soluciones digitales escalables. Mi experiencia abarca desarrollo full-stack, plataformas cloud, APIs, integración empresarial, bases de datos y sistemas distribuidos.
+Combino ingeniería práctica con una mentalidad arquitectónica — enfocándome en cómo las aplicaciones, servicios, datos e integraciones funcionan juntos como una solución completa, no solo en cómo se construyen los componentes individuales.
+Mi especialización actual incluye SAP Business Technology Platform, integración empresarial y arquitectura cloud, con un enfoque creciente en diseño de soluciones y cómo la tecnología se conecta con los procesos de negocio.
 
 ## 🛠️ Tech Stack
 
