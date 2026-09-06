@@ -18,16 +18,6 @@ Me enfoco en crear soluciones eficientes, mantenibles y alineadas a necesidades 
 
 ## 🛠️ Tech Stack
 
-### **Frontend**
-<div>
-  <img src="https://skillicons.dev/icons?i=react,next,ts,js,html,css,tailwind&perline=7" />
-</div>
-
-### **Backend & Cloud**
-<div>
-  <img src="https://skillicons.dev/icons?i=nodejs,docker,postgres,git,githubactions&perline=7" />
-</div>
-
 ### ☁️ Enterprise & Cloud Stack
 ![SAP BTP](https://img.shields.io/badge/SAP_BTP-008FD3?style=for-the-badge&logo=sap&logoColor=white)
 ![SAP Integration Suite](https://img.shields.io/badge/SAP_Integration_Suite-0052CC?style=for-the-badge&logo=sap&logoColor=white)
@@ -39,7 +29,7 @@ Me enfoco en crear soluciones eficientes, mantenibles y alineadas a necesidades 
 - Scrum  
 - Clean Code  
 - SOLID  
-- CI/CD  
+- SAP Activate 
 - Testing & documentación técnica  
 
 ## 📫 Hablemos
